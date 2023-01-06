@@ -1,7 +1,7 @@
 # Bem vindo(a) ao tópico de recursividade com Python através de nossões de funções matemáticas. 
 
 
-<img src=https://cdn.pixabay.com/photo/2019/04/14/10/27/book-4126483_960_720.jpg  height='200rem'>
+<img src=https://cdn.pixabay.com/photo/2019/04/14/10/27/book-4126483_960_720.jpg >
 
 
 ## Assim como na matemática, onde representamos as funções da forma $f(x)$ . Podemos pensar nas funções recursivas da mesma forma.
