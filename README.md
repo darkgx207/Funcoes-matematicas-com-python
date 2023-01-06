@@ -7,7 +7,7 @@
 ## Assim como na matemática, onde representamos as funções da forma $f(x)$ . Podemos pensar nas funções recursivas da mesma forma.
 
 ## Imagine a seguinte função:
-$$ \text{Dado } x\in \mathbb{Z} \text{ temos que:}
+$$ \text{Dado } x \in \mathbb{Z} \text{ temos que:}
 \\f(x)=f(x-2)+f(x-1) \\ \text{onde, }  f(1)=f(2)=1 \\
 $$
 
@@ -17,7 +17,7 @@ $$
 ## Agora a pergunta é, como escrever código em python *(ou qualquer outra linguagem que aceite recursividade)* da mesma forma que escreveriamos em linguagem matemática?
 
 ## Aqui imaginarmos que a sentação a seguir é entendida da seguinte forma:
-$$f(x) = 2x+1$$ 
+$$ f(x) = 2x+1 $$ 
 ```python
 def f(x):
     return 2*x + 1
@@ -29,7 +29,7 @@ def f(x):
 ### Dessa forma podemos escrever que
 
 
-$$ \text{Seja x}\in \mathbb{Z} ,\text{ e } f(1)=f(2)=1 \\
+$$ \text{Seja x} \in \mathbb{Z} ,\text{ e } f(1)=f(2)=1 \\
 
 f(x) = f(x-2) + f(x-1) $$
 
