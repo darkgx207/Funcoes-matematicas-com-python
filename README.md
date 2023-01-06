@@ -7,8 +7,8 @@
 ## Assim como na matemática, onde representamos as funções da forma $f(x)$ . Podemos pensar nas funções recursivas da mesma forma.
 
 ## Imagine a seguinte função:
-$$ \text{Dado } x \in \mathbb{Z} \text{ temos que:}
-\\f(x)=f(x-2)+f(x-1) \\ \text{onde, }  f(1)=f(2)=1 \\
+$$ \text{Dado } x \in \mathbb{Z} \text{ temos que: }
+\\ f(x)=f(x-2)+f(x-1) \\ \text{onde, }  f(1)=f(2)=1 \\
 $$
 
 ### O resultado dessa função sã os numeros da sequencia de Fibonacci.
