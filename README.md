@@ -28,10 +28,9 @@ def f(x):
 
 ### Dessa forma podemos escrever que
 
+$$ \text{Seja x} \in \mathbb{Z} , \text{ e } f(1)=f(2)=1 $$
 
-$$ \text{Seja x} \in \mathbb{Z} , \text{ e } f(1)=f(2)=1 \\
-
- f(x) = f(x-2) + f(x-1) $$
+$$ f(x) = f(x-2) + f(x-1) $$
 
 
 
