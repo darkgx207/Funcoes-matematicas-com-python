@@ -11,7 +11,7 @@ $$ \text{Dado } x \in \mathbb{Z} \text{ temos que: }
 \\ f(x)=f(x-2)+f(x-1) \\ \text{onde, }  f(1)=f(2)=1 \\
 $$
 
-### O resultado dessa função sã os numeros da sequencia de Fibonacci.
+### O resultado dessa função são os numeros da sequencia de Fibonacci.
 <br/>
 
 ## Agora a pergunta é, como escrever código em python *(ou qualquer outra linguagem que aceite recursividade)* da mesma forma que escreveriamos em linguagem matemática?
