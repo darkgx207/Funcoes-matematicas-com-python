@@ -16,7 +16,7 @@ $$
 
 ## Agora a pergunta é, como escrever código em python *(ou qualquer outra linguagem que aceite recursividade)* da mesma forma que escreveriamos em linguagem matemática?
 
-## Aqui imaginarmos que a sentação a seguir é entendida da seguinte forma:
+## Aqui, ao imaginarmos que a sentença a seguir é entendida da seguinte forma:
 $$ f(x) = 2x+1 $$ 
 ```python
 def f(x):
