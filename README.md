@@ -14,7 +14,7 @@ $$
 ### O resultado dessa função são os numeros da sequencia de Fibonacci.
 <br/>
 
-## Agora a pergunta é, como escrever código em python *(ou qualquer outra linguagem que aceite recursividade)* da mesma forma que escreveriamos em linguagem matemática?
+## Agora a pergunta é, como escrever código em python *(ou qualquer outra linguagem que aceite recursividade)* da mesma forma que escreveríamos em linguagem matemática?
 
 ## Aqui, ao imaginarmos que a sentença a seguir é entendida da seguinte forma:
 $$ f(x) = 2x+1 $$ 
