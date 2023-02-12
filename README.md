@@ -1,4 +1,4 @@
-# Bem vindo(a) ao tópico de recursividade com Python através de nossões de funções matemáticas. 
+# Bem vindo(a) ao tópico de recursividade com Python através de noções de funções matemáticas. 
 
 
 <img src=https://cdn.pixabay.com/photo/2019/04/14/10/27/book-4126483_960_720.jpg >
