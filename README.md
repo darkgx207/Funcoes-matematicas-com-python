@@ -41,4 +41,4 @@ def f(x):
     else:
         return f(x-2) + f(x-1)
 ```
-### Como resultado a função irá retornar o x-esimo valor da sequencia de Fibonacci.
+### Como resultado a função irá retornar o x-ésimo valor da sequencia de Fibonacci.
